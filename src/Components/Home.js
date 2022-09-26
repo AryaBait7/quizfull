@@ -41,12 +41,12 @@ const QuizComp = () => {
             ]
         },
         {
-            Question: "Which company pankaj is working currently?",
+            Question: "Which is a Finance Company?",
             Answers: [
                 { Answer: "Accenture", isCorrect: false },
                 { Answer: "Oracle", isCorrect: false },
                 { Answer: "L&T", isCorrect: true },
-                { Answer: "IBM", isCorrect: false }
+                { Answer: "Morgan Stanley", isCorrect: false }
             ]
         }
     ]
